@@ -1,0 +1,7 @@
+Rencana pembelajaran pengembangan web development
+- HTML
+- CSS
+- Java Script
+- SQL
+- MVC: CodeIgniter4
+- HHTP/HTTPS
