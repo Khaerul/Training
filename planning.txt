@@ -2,6 +2,7 @@ Rencana pembelajaran pengembangan web development
 - HTML : HTML5
 - CSS : CSS terbaru
 - Java Script
+- Data Structure
 - SQL
 - MVC: CodeIgniter4
 - HHTP/HTTPS
