@@ -1,8 +1,12 @@
 Rencana pembelajaran pengembangan web development
 - HTML : HTML5
 - CSS : CSS terbaru
+- PHP : PHP 8
 - Java Script
 - Data Structure
+  > Integer
 - SQL
+  > MySQL
 - MVC: CodeIgniter4
 - HHTP/HTTPS
+- JQuery
