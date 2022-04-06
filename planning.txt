@@ -3,6 +3,7 @@ Rencana pembelajaran pengembangan web development
 - CSS : CSS terbaru
 - PHP : PHP 8
 - Java Script
+  > React
 - Data Structure
   > Integer
 - SQL
